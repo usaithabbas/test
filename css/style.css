@@ -22,7 +22,7 @@ nav{
 	padding: 100px 0;
 }
 .carousel-item {
-	height: 80vh;
+	height: 90vh;
 	min-height: 300px;
 }
 .carousel-caption {
@@ -153,8 +153,12 @@ p{
 	.navbar-nav {
 		text-align: center;
 	}
+	.carousel-item {
+		height: 80vh;
+		min-height: 300px;
+	}
 	.carousel-caption {
-		bottom: 75px;
+		bottom: 70px;
 	}
 	.carousel-caption h5 {
 		font-size: 25px;
